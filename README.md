@@ -1,3 +1,9 @@
+## Changes
+Open DEVONThink's search tool and search for `query` you entered for `searchio!`
+
+> `src/devonthink.scpt` an ancient script from `LaunchBar` [forum](https://forums.obdev.at/viewtopic.php?t=3789)
+> other things done with alfred side.
+
 # Searchio! workflow for Alfred #
 
 Auto-suggest search results from multiple search engines and languages.
